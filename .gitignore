@@ -1,0 +1,11 @@
+--2016-06-09 10:07:28--  https://raw.githubusercontent.com/github/gitignore/master/Node.gitignore
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 199.27.79.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.27.79.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 578 [text/plain]
+Saving to: ‘Node.gitignore’
+
+     0K                                                       100% 29.0M=0s
+
+2016-06-09 10:07:32 (29.0 MB/s) - ‘Node.gitignore’ saved [578/578]
+

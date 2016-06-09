@@ -1,0 +1,32 @@
+{
+  "name": "kit",
+  "version": "0.0.0",
+  "description": "pdfkit test",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STJudd109/kit.git"
+  },
+  "keywords": [
+    "pdfkit"
+  ],
+  "author": "Spencer Judd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/STJudd109/kit/issues"
+  },
+  "homepage": "https://github.com/STJudd109/kit#readme"
+}
